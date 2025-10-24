@@ -1,0 +1,17 @@
+# DevOps Task 3 - Version Controlled Project
+
+## Branching model
+- `main` — production-ready
+- `dev` — integration branch
+- `feature/*` — feature branches
+
+## How to run
+1. git clone ...
+2. npm install
+3. npm start
+
+## Tasks done
+- Created branches: main, dev, feature/add-logging
+- Implemented logging
+- Added README and .gitignore
+
